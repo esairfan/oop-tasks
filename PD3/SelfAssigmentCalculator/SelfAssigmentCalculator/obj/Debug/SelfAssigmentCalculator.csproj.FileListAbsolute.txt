@@ -1,0 +1,7 @@
+D:\Computer science\OOP\SelfAssigmentCalculator\SelfAssigmentCalculator\bin\Debug\SelfAssigmentCalculator.exe.config
+D:\Computer science\OOP\SelfAssigmentCalculator\SelfAssigmentCalculator\bin\Debug\SelfAssigmentCalculator.exe
+D:\Computer science\OOP\SelfAssigmentCalculator\SelfAssigmentCalculator\bin\Debug\SelfAssigmentCalculator.pdb
+D:\Computer science\OOP\SelfAssigmentCalculator\SelfAssigmentCalculator\obj\Debug\SelfAssigmentCalculator.csproj.AssemblyReference.cache
+D:\Computer science\OOP\SelfAssigmentCalculator\SelfAssigmentCalculator\obj\Debug\SelfAssigmentCalculator.csproj.CoreCompileInputs.cache
+D:\Computer science\OOP\SelfAssigmentCalculator\SelfAssigmentCalculator\obj\Debug\SelfAssigmentCalculator.exe
+D:\Computer science\OOP\SelfAssigmentCalculator\SelfAssigmentCalculator\obj\Debug\SelfAssigmentCalculator.pdb

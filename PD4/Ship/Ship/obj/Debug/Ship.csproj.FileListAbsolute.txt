@@ -1,0 +1,7 @@
+E:\Semester 2\PD\week 5\Ship\Ship\bin\Debug\Ship.exe.config
+E:\Semester 2\PD\week 5\Ship\Ship\bin\Debug\Ship.exe
+E:\Semester 2\PD\week 5\Ship\Ship\bin\Debug\Ship.pdb
+E:\Semester 2\PD\week 5\Ship\Ship\obj\Debug\Ship.csproj.AssemblyReference.cache
+E:\Semester 2\PD\week 5\Ship\Ship\obj\Debug\Ship.csproj.CoreCompileInputs.cache
+E:\Semester 2\PD\week 5\Ship\Ship\obj\Debug\Ship.exe
+E:\Semester 2\PD\week 5\Ship\Ship\obj\Debug\Ship.pdb
